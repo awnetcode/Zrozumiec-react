@@ -1,0 +1,7 @@
+.timer{
+    font-family: "Share Tech Mono", monospace;
+    color: #50c80e;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+  }
